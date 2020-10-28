@@ -6,3 +6,6 @@ Git automatically detected the changes
 We committed this changes into local repository
 
 more changes 123
+
+
+I am making some chnges under B20-DAY1 Repository
